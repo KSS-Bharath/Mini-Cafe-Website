@@ -30,9 +30,6 @@ camper-cafe-menu/
 - HTML5
 - CSS3 (Flexbox, background images, hover effects)
 
-## 📸 Preview
-
-![Preview](https://images.unsplash.com/photo-1509042239860-f550ce710b93)
 
 ## 🔗 Contact
 
