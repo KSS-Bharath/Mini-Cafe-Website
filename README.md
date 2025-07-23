@@ -11,10 +11,11 @@ A simple and responsive cafe menu website built using HTML and CSS. This project
 You can view a live preview by opening the `index.html` file in your browser.
 
 ## 📁 Project Structure
-
+```bash
 camper-cafe-menu/
 ├── index.html # Main HTML file
 └── style.css # CSS styling for layout and design
+```
 
 
 
